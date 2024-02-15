@@ -11,3 +11,6 @@ Recent advances on Image Composition.
 - [ ] Su Xue. [Understanding and Improving the Realism of Image Composites](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7fb6fd4300d56e71469b64d9ffc4b2034431ae46). ACM Transactions on Graphics.
 - [ ] Jiaya Jia. [Drag-and-Drop Pasting](https://www.cse.cuhk.edu.hk/~leojia/all_project_webpages/ddp/dragdroppasting.pdf). ACM Transactions on Graphics.
 - [ ] Zicheng Liao. [An Approximate Shading Model for Object Relighting](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_An_Approximate_Shading_2015_CVPR_paper.pdf). CVPR.
+
+## 3. Google Search
+- Xiang Li. [Image Composition Method Based on a Spatial Position Analysis Network](https://www.mdpi.com/2079-9292/12/21/4413). MDPI.
