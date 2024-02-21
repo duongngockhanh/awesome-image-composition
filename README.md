@@ -1,4 +1,4 @@
-# Image Composition Survey
+# Awesome Image Composition
 Recent advances on Image Composition.
 
 ## 1. Google Scholar: Object Compositing
