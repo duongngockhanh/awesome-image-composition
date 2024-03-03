@@ -4,7 +4,12 @@ Recent advances on Image Composition.
 ## Survey
 - [x] Li Niu. [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/abs/2106.14490). CVPR.
 
-
+## Diffusion-based Image Composition
+- [ ] Paint by Example: Exemplar-based Image Editing with Diffusion Models [[arXiv](https://arxiv.org/pdf/2211.13227)][[code](https://github.com/Fantasy-Studio/Paint-by-Example)]
+- [ ] ObjectStitch: Generative Object Compositing [[arXiv](https://arxiv.org/pdf/2212.00932)]
+- [ ] AnyDoor: Zero-shot Object-level Image Customization [[arXiv](https://arxiv.org/pdf/2307.09481.pdf)][[code](https://github.com/ali-vilab/AnyDoor)][[demo](https://huggingface.co/spaces/xichenhku/AnyDoor-online)]
+- [ ] Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model [[arXiv](https://arxiv.org/pdf/2306.07596.pdf)]
+- [ ] DreamEdit: Subject-driven Image Editing [[arXiv](https://arxiv.org/pdf/2306.12624.pdf)][[code](https://github.com/DreamEditBenchTeam/DreamEdit)]
 
 ## Some past search results
 ### 1. Google Scholar: Object Compositing
